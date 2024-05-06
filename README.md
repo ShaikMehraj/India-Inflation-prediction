@@ -6,9 +6,7 @@ Data set consists of different metrics and categories like Rural , Urban and Com
 Annual inflation is consider as combined(rural and urban) General index of CPI.
 
 
-Every Time series data exhibits trends and seasonal patterns .In this code will understand series if has any linear trends and sequential seasonal patterns by visualizing it .
-
-Non-stationary data has fluctuations and wide spread data points , it is difficult to forecast with such data for more precise inflation rate .  
+Every Time series data exhibits trends and seasonal patterns .In this code will understand series if has any linear trends and sequential seasonal patterns by visualizing it .Non-stationary data has fluctuations and wide spread data points , it is difficult to forecast with such data for more precise inflation rate .
 
 As per theoretical understanding If the p-value is less than or equal to the significance level (0.05 here) and the ADF statistic is less than the critical value at the chosen significance level, it indicates strong evidence against a unit root (non-stationarity), suggesting the data is stationary.But our series has high P-value so, which indicates it has weak null hypothesis, time series has a unit root, indicating it is non-stationary. 
 

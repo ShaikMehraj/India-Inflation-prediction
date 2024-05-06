@@ -33,7 +33,6 @@ Autoregressive (AR):
 It captures the dependence of the current value on its recent history
 
 Integrated (I):
-
     The I component refers to differencing. If the data has a trend (non-stationary), differencing is applied to remove the trend and make the series stationary.
 
 Moving Average (MA):

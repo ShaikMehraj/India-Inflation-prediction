@@ -67,4 +67,4 @@ In SARIMA also has the same functional parameter but with seasonal influence in 
 
 In this how are we going to know best fitting parameter values for training model ? 
 
-    To tackle this  challenge we are simple iteratively make model learn  with specified range of values , in the out  come we have best combination of value for parameter with lowest AIC and BIC value .
+To tackle this  challenge we are simple iteratively make model learn  with specified range of values , in the out  come we have best combination of value for parameter with lowest AIC and BIC value .
